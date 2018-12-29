@@ -124,6 +124,12 @@ If you have a data type that needs processing differently, a similar approach to
         }
     }
 ```
+### Unity Markov Usability
+Basically some cosmetic changes to make MarkovSharp usable in Unity.
+To install in project just copy whole MarkovSharpUnity folder into the Assets folder of Your project,
+and copy newtonsoft.json.dll to the plugins folder.
+
+Basic usage is shown in MarkovTest.cs script.
 
 ## License
 
